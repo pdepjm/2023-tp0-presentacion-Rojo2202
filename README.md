@@ -9,7 +9,7 @@ Hola! Soy Agustin Calderon
 
 
 # Sobre mi
-- Tengo foto
+
 - Estudie desarrollo web en CoderHouse.
 - Entre a la facu en 2020.
 - Me gusta el helado de frutilla a la crema.
